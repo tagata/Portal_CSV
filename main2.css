@@ -1,0 +1,247 @@
+:root {
+    --blue: #183665;
+    --white: #ffffff;
+    --black: #000000;
+    --grey: #808285;
+
+  }
+
+  * {
+    color: var(--fontColor);
+    font-family: arial;
+  }
+  
+  body {
+      background: var(--bg);
+  }
+ 
+  #msg {
+    font-family: arial;
+  }
+
+  .contexto{
+    position:fixed;
+    padding-top: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    min-height:50%;
+    position:fixed;
+    height: 75%;/*500px;*/
+    min-width: 75%;
+    overflow: auto;
+  }
+
+
+  /* The sidebar menu */
+.sidenav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 280px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 1  ; /* Stay at the top */
+  left: 0;
+  background-color: #ffffff; /* white */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 0px;
+  margin-left: 9px;
+  border-right: 2px solid #2b0f8f;  
+  padding: 6px 8px 6px 16px;
+}
+
+.sidenav_selected {
+  color: #342575;
+  font-weight: bold;
+}
+
+/* The navigation menu links */
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: var(--black);
+  display: block;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+  color: #342575;
+  font-weight: bold;
+  background-color: rgba(212, 212, 212, 0.767);
+  border-radius: 4px;
+  padding: 15 px;
+
+}
+.email {
+    color:#002d65;
+    font-size: 16px;
+    text-align: center;
+}
+
+.txtDate {  
+  color:#002d65;
+  font-size: 16px;
+  text-align: right;
+  margin-right: 0;
+}
+
+.txtCenter{
+  color:#002d65;
+  font-size: 26px;
+  text-align: center;
+}
+
+ul {
+  font-family: arial;
+  color:#002d65;
+  font-size: 16px;
+  text-align: left;
+  margin-bottom: 0; 
+  list-style: none;
+}
+
+
+.li{
+  color:black;
+  text-align: left;
+  font-size: 16px;
+  float: left;
+  width: 45%;
+  list-style: circle;
+  margin-right: 25px;
+  padding: 7px;
+  position:unset;
+  margin-top: 0 ;
+}
+
+.liGreen{
+  color:green;
+  text-align: left;
+  font-size: 16px;
+  float: left;
+  width: 45%;
+  list-style: circle;
+  margin-right: 25px;
+  padding: 7px;
+  position:unset;
+  margin-top: 0 ;
+}
+
+.li:hover{
+  font-weight: bold;
+  color:var(--blue)
+}
+
+.liGreen:hover{
+  font-weight: bold;
+  color:var(--blue)
+}
+
+
+.txtGreen{
+  /*font-weight: bold;*/
+  color:green;
+  font-size: 14px;
+  padding-left: 20px; 
+  text-align: center;
+  margin-top: 0;
+}
+
+.footer{
+  height: 110px;
+  bottom: 0;
+  left: 30;
+  position: fixed;
+  width: 80%;
+  z-index: -1;
+  text-align: center;
+  margin-left: 15%;
+ 
+ 
+}
+ .legenda{
+   margin-left: 20px;
+   font-size: 12px;
+   padding: 0;
+ }
+
+.contextoFullScreen{
+  position:fixed;
+  padding-top: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  min-height:50%;
+  position:fixed;
+  height: 85%;/*500px;*/
+  overflow: auto;
+}
+
+.header-section {
+  display: flex;
+  flex-wrap: wrap;
+  overflow: hidden;
+  background-color: #ffffff;
+  border-bottom: 2px solid #2b0f8f;
+  font-size: 21px;
+
+  font-weight: bold;
+  vertical-align: bottom ;
+}
+.logo {
+margin-left: 0;
+text-align: left;
+}
+
+
+
+.header-section  a {
+  float: left;
+  color: black; 
+  text-align: right;
+  padding: 7px;
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+/* Change the background color on mouse-over */
+.header-section a:hover {
+  background-color: rgb(192, 191, 191);
+  color: black;
+}
+
+/* Style the active/current link*/
+.header-section a.active {
+  background-color:var(--blue);
+  color: white;
+}
+
+.header-section-1 {
+  width: 30%;
+}
+.header-section-2{
+  width: 45%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-section-3{
+  width: 25%;
+  float: right;
+  text-align: right;
+  align-content: right;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+}
+
+@media (max-width: 768px) {
+  .header-section > div {
+      width: 100%;
+      text-align: center;
+  }
+}
+

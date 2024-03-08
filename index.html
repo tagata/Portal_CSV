@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> 🌟 Villares Metals SA - BI - Analytics 📊  🌟</title>
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="main2.css">
+  </head>
+
+  <header>
+      <div id="myHeader"></div>
+      <script src="app.js"></script>
+      <script language=javascript type="text/javascript">
+        
+        criaHeader("VMSA");
+        //criaCookie();
+        loadCookie();
+      </script>
+    
+    
+  </header>
+
+  <body>  
+    <aside id="sidebar" class="sidebar-wrapper">
+      <script language=javascript type="text/javascript">    
+        buildMenu();
+      </script>
+    </aside>
+
+    <section>
+      <div style="margin-left:300px;" class = "contexto">
+        <!--Data -->
+        <script src="app.js"></script>
+        <div class="txtDate">  
+          <script language=javascript type="text/javascript">
+              gera_data();
+            </script>
+        </div>  
+        <!--Links dinamicos conforme arquivo links.csv-->
+        <div>
+          <ul class='ul' id='linkRelatorios' >
+
+            <p class='txtCenter'><img src='bw.png' WIDTH=75 HEIGHT=60> Business Information Warehouse (W0P) — Ambiente de Produção</p>
+            <p class='txtCenter'><img src='power_bi.png' WIDTH=60 HEIGHT=60> Power BI - Dashboards</p>
+            <p class = 'email'> Contato :</p>
+            <p class = 'email'> <a href=mailto:marcio.motitsuki@villaresmetals.com> ✉ marcio.motitsuki@villaresmetals.com </a></p>
+            <p class = 'email'> ou</p>
+            <p class = 'email' > <a href=mailto:ana.vitoria@villaresmetals.com> ✉ ana.vitoria@villaresmetals.com </a></p>
+          </ul>     
+        </div>
+      </section>
+
+
+      <footer>
+        <div class="footer"   id = "obs">
+           
+      </footer>
+  </body>
+</html>

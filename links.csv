@@ -1,0 +1,406 @@
+﻿NumLinha;Tipo BW  /PBI;NomeLink;linkarquivo;QualPagina;TipoBW;AbaNome;#
+1;BW;**Faturamento COPA**;VM_PA1_O_00000_002;Corporate;Query;COPA;#
+2;BW;Faturamento COPA (a partir 04/2021);VM_PA1_O_00000_002_NEW;Corporate;Query;COPA;#
+3;BW;Análise de Faturamento - Comparativo;VM_WT_SD03_018;Corporate;Template;COPA;#
+4;BW;**Acompanhamento de Margem - COPA**;VM_WD_PAF_006;Corporate;Template;COPA;#
+5;BW;**Resultado Operacional - COPA**;VM_WD_PAF_C_001;Corporate;Template;COPA;#
+6;BW;Resultado Operacional - COPA (a partir 04/2021);VM_WD_PAF_C_001_NEw;Corporate;Template;COPA;#
+7;BW;Flash faturamento;VM_WD_FLASH_001;Corporate;Template;Corporate;#
+8;BW;Faturados n/ Embarcados;VM_WD_EXSD_I_00000_01;Corporate;Template;Corporate;#
+9;BW;Margem Backlog;VM_SDBL_M_00000_004;Corporate;Query;Corporate;#
+10;BW;Análise de Faturamento - Perí­odo Único;VM_WT_SD03_019;Corporate;Template;Corporate;#
+11;BW;Curva ABC Clientes;VM_SD03_C_00000_011_4;Gestao CD;Query;Gestao CD;#
+12;BW;Análise Entrada de Pedidos;VM_SD03_C_00000_013_1;Gestao CD;Query;Gestao CD;#
+13;BW;Consulta de Pedidos;VM_SD03_C_00000_013_3;Gestao CD;Query;Gestao CD;#
+14;BW;Faturamento CD;VM_WT_SD03_001;Gestao CD;Template;Gestao CD;#
+15;BW;Estoque Terceiro (Bohler);VM_MMIC_C_00000_030;Gestao CD;Query;Gestao CD;#
+16;BW;Blocos CD;VM_prcdo_00000_001;Gestao CD;Query;Gestao CD;#
+17;BW;Analítico Cotações;VM_VMCSD05_6854_1;Gestao CD;Query;Gestao CD;#
+18;BW;Acompanhamento de Pedidos;VM_PRCDC_00000_002;Gestao CD;Query;Gestao CD;#
+19;BW;Analítico de Produção CD;VM_PRCDC_00000_002;Gestao CD;Query;Gestao CD;#
+20;BW;Mapa de Folga CD;VM_DICDC_00000_002;Gestao CD;Query;Gestao CD;#
+21;BW;Resumo Produção CD por Nave;VM_PRCDM_00000_002;Gestao CD;Query;Gestao CD;#
+22;BW;Giro de Estoque;VM_IC1_M_00000_014;Gestao CD;Query;Gestao CD;#
+23;BW;Cobertura de Estoque;VM_IC1_M_00000_014;Gestao CD;Query;Gestao CD;#
+24;PBI;Acompanhamento - Pedidos Contratos;https://app.powerbi.com/groups/993a0166-b6bc-4ac8-a43b-9bfe6cfc0c50/reports/060e6f15-03dd-454e-b72b-533a5e6887cf?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Compras;PBI;Compras;#
+25;PBI;Acompanhamento Preços Sucatas;https://app.powerbi.com/groups/993a0166-b6bc-4ac8-a43b-9bfe6cfc0c50/reports/59088d5f-cee9-4721-b149-dd4586a5a4c9?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Compras;PBI;Compras;#
+27;PBI;Contratos e Programa de Remessa;https://app.powerbi.com/groups/993a0166-b6bc-4ac8-a43b-9bfe6cfc0c50/reports/7c0cd55a-1eca-446a-b0b8-e930db7db95b?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Compras;PBI;Compras;#
+29;PBI;Inflação Interna ME;https://app.powerbi.com/groups/993a0166-b6bc-4ac8-a43b-9bfe6cfc0c50/reports/50220087-033c-4ad9-b9c7-ac56639a3e8f?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Compras;PBI;Compras;#
+30;PBI;Inflação Interna MI;https://app.powerbi.com/groups/993a0166-b6bc-4ac8-a43b-9bfe6cfc0c50/reports/159b8f50-f861-426f-b20b-05e79a4acb7c?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Compras;PBI;Compras;#
+31;PBI;Material Expenses;https://app.powerbi.com/groups/993a0166-b6bc-4ac8-a43b-9bfe6cfc0c50/reports/10de758b-2ac1-4cb6-864e-01a3e3a09fd2?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Compras;PBI;Compras;#
+32;PBI;Maverick Buying;https://app.powerbi.com/groups/993a0166-b6bc-4ac8-a43b-9bfe6cfc0c50/reports/40085e15-4d90-4c64-8a47-5a85d28584b4?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Compras;PBI;Compras;#
+33;PBI;Pedidos - Consignado, Simplificado e Industrialização e Fretes;https://app.powerbi.com/groups/993a0166-b6bc-4ac8-a43b-9bfe6cfc0c50/reports/10b12b57-516a-4963-b374-b50c8d086bba?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Compras;PBI;Compras;#
+34;PBI;Preços BOFC;https://app.powerbi.com/groups/993a0166-b6bc-4ac8-a43b-9bfe6cfc0c50/reports/c3b2c092-a812-427f-b847-798490721d5a?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Compras;PBI;Compras;#
+35;PBI;Spend Anaysis;https://app.powerbi.com/groups/993a0166-b6bc-4ac8-a43b-9bfe6cfc0c50/reports/44ff3072-b2b1-4fcd-a116-d1dafdf8e034?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Compras;PBI;Compras;#
+36;BW;Balanço BOFC acrescido c/ De para contas SAP e CC.;VM_WD_FI_003;Contabil Geral;Template;Contabil Geral;#
+37;BW;Notas Fiscais;VM_VMCNF01_06854_003;Contabil Notas;Query;Contabil Notas;#
+38;BW;Faturamento por tipo de venda;VM_DS_03_00000_001;Contabil Notas;Query;Contabil Notas;#
+39;BW;Preço de Transferência ABUB;ABUB_PAF_C_06854_006;Contabil Geral;Query;Contabil Geral;#
+40;BW;NF vendas;VM_VMCNF01_00000_000;Contabil Notas;Query;Contabil Notas;#
+41;BW;Embarques;VM_GL2_M_00000_001;Contabil Geral;Query;Contabil Geral;#
+42;BW;Relação NF Faturamento;VM_VMCNF01_05718_009;Contabil Notas;Query;Contabil Geral;#
+43;BW;Saldos por conta e centro de custos – New Ledger;VM_U_FIGLN_57200_002;Contabil Geral;Query;Contabil Geral;#
+44;BW;Cubo fiscal “Análises Gerais”;VM_U_FIGLN_57200_002;Contabil Notas;Query;Contabil Geral;#
+45;BW;Notas Fiscais -  Controle de movimentos;VM_VMCNF01_05718_009;Contabil Notas;Query;Contabil Geral;#
+46;BW;PS - Imobilizado em Andamento;VM_VMFIRA01_00000_001;Contabil Projetos;Query;Contabil Projetos;#
+47;BW;PS - CAPEX—Movimentação;VM_VMFIRA01_00000_002;Contabil Projetos;Query;Contabil Projetos;#
+48;BW;Balancete por centro de custo;VM_U_FIGLN_57200_002;Contabil Geral;Query;Contabil Geral;#
+49;BW;Notas fiscais de Saída;VM_VMCNF01_06854_001;Contabil Notas;Query;Contabil Notas;#
+50;BW;Faturamento;VM_VMCNF01_05718_009;Contabil Notas;Query;Contabil Notas;#
+51;BW;Desempenho Operacional – Por Ligas;VM_PAF_C_00000_003_22;Contabil Geral;Query;Contabil Geral;#
+52;BW;Custos por Liga - ABUB;ABUB_PAF_C_06854_006;Contabil Geral;Query;Contabil Geral;#
+53;BW;Faturados e Não Embarcados;VM_WD_EXSD_I_00000_01;Contabil Geral;Template;Contabil Geral;#
+54;BW;Análise de Despesas por Centro de Custos;VM_CCA_00000_007_2;Contabil Geral;Query;Contabil Geral;#
+55;BW;Notas Fiscais – CFOP – NCM – Parceiro – Lote;VM_VMCNF01_06854_003;Contabil Notas;Query;Contabil Geral;#
+56;BW;Livro Fiscal;VM_VMCNF01_05718_009;Contabil Notas;Query;Contabil Geral;#
+57;BW;IMOBILIZADO (AA)-Detalhado;VM_VMAARP01_00000_002;Contabil Imobilizado;Query;Contabil Imobilizado;#
+58;BW;IMOBILIZADO (AA)-3 col – Mês/Ano fiscal inf.  Mês/Ano fiscal inf. ano anterior e 012 do ano anterior;VM_VMAARP01_00000_001;Contabil Imobilizado;Query;Contabil Imobilizado;#
+59;BW;IMOBILIZADO (AA)-Posições Acumuladas;VM_VMAARP01_00000_003;Contabil Imobilizado;Query;Contabil Imobilizado;#
+60;BW;IMOBILIZADO (AA)-Período 12 Meses;VM_VMAARP01_00000_004;Contabil Imobilizado;Query;Contabil Imobilizado;#
+61;BW;Refugos;VM_WD_QM_001;Gestao da Quaidade;Template;Gestao da Quaidade;#
+62;BW;Retrabalho;VM_WD_QM_002;Gestao da Qualidade;Template;Gestao da Qualidade;#
+63;BW;Custo da não qualidade - Perdas por sucatamento;VM_PC_M02_00000_001;Gestao da Qualidade;Query;Gestao da Qualidade;#
+64;BW;Custo da não qualidade - Perdas por sucatamento analítico;VM_PC_M02_00000_002;Gestao da Qualidade;Query;Gestao da Qualidade;#
+65;BW;Rendimento - Ordens Finalizadas;VM_WT_PPRE_002;Gestao da Qualidade;Template;Gestao da Qualidade;#
+66;BW;Rendimento - Ordens em processo;VM_PPRE_C_00000_005;Gestao da Qualidade;Query;Gestao da Qualidade;#
+67;BW;Acompanhamento das Despesas;VM_CCA_00000_006_7;Custos (BW) Despesas Tarifas e Ocupação;Query;Gestao de Custo;#
+68;BW;Resumo Análise de Despesas;VM_WT_MCCA01_002;Custos (BW) Despesas Tarifas e Ocupação;Template;Gestao de Custo;#
+69;BW;Acompanhamento despesas – Fixo e Variável;VM_VMOMCP0_00000_003;Custos (BW) Despesas Tarifas e Ocupação;Query;Gestao de Custo;#
+70;BW;Resumo de Tarifas               ;VM_WD_CCA_002_1;Custos (BW) Despesas Tarifas e Ocupação;Template;Gestao de Custo;#
+71;BW;Análise de Despesas por Classe Custo;VM_WD_CCA_00000_001;Custos (BW) Despesas Tarifas e Ocupação;Template;Gestao de Custo;#
+72;BW;Sub/Sobre Absorção;VM_CCA_00000_013;Custos (BW) Despesas Tarifas e Ocupação;Query;Gestao de Custo;#
+73;BW;Tipos de Atividades (S_ALR_87013617);VM_VMOCCP03_00000_001;Custos (BW) Despesas Tarifas e Ocupação;Query;Gestao de Custo;#
+74;BW; Índices Estatísticos (S_ALR_87013618);VM_VMOCCP04_00000_001;Custos (BW) Despesas Tarifas e Ocupação;Query;Gestao de Custo;#
+75;BW; **Materiais produzidos/industr.- Estrat. Custos **;VM_CML_C_00000_006;Custos (BW) Análise de Custo;Query;Gestao de Custo;#
+76;BW; **Materiais não produzidos/industr. - Estrat. Custos **;VM_CML_C_00000_006;Custos (BW) Análise de Custo;Query;Gestao de Custo;#
+77;BW;Desempenho de Produção - Aciaria (ZP01);VM_MPPCO01_M_00000_003;Custos (BW) Desempenho;Query;Gestao de Custo;#
+78;BW;Desemp. de Produção - ILM e IFM (ZP04);VM_MPPCO01_M_00000_003_1;Custos (BW) Desempenho;Query;Gestao de Custo;#
+79;BW;Ocupação e Desempenho - Mensal;VM_VMMCCA01_00000_013;Custos (BW) Despesas Tarifas e Ocupação;Query;Gestao de Custo;#
+80;BW;Consumo de Matéria Prima;VM_COSMC_00000_001;Custos (BW) Matéria Prima;Query;Custos (BW) Matéria Prima;#
+81;BW;Análise Desempenho de Ordens;VM_WD_PC_002;Custos (BW) Desempenho;Template;Gestao de Custo;#
+82;BW;Análise Variação de Margem (Dt Fusao - COPA);VM_VMMSD007_00000_004;Gestao de Custo;Query;Gestao de Custo;#
+83;BW;Controle de Orcamentos;VM_VMMFM01_00000_001;Custos (BW) FM;Query;Gestao de Custo;#
+84;BW;Materiais produzidos/industrializados - Estrati.Custos;VM_VMMCO02_00000_004;Gestao de Custo;Query;Gestao de Custo;#
+85;BW;Estratificação Custo-Estrut. antiiga ou nova-Único período;VM_VMMCO02_00000_003;Custos (BW) Análise de Custo;Query;Gestao de Custo;#
+86;BW;Centro de Custo—Custos Reais;VM_VMOCCP11_00000_001;Custos (BW) Despesas Tarifas e Ocupação;Query;Gestao de Custo;#
+87;BW;Produtividade e desempenho;VM_VMOCCP10_00000_001;Custos (BW) Despesas Tarifas e Ocupação;Query;Gestao de Custo;#
+88;BW;Gerencial - Matéria-Prima (MP) ;VM_IC1_M_00000_008;Gestao de Estoque;Query;Gestao de Estoque;#
+89;BW;Gerencial - Estoque em Processo (WIP)  - Intermediários;VM_U_IC1_57200_2;Gestao de Estoque;Query;Gestao de Estoque;#
+90;BW;Gerencial - Estoque em Processo (WIP)  - Semi Acabados/Processamento;VM_WIP_M_00000_001;Gestao de Estoque;Query;Gestao de Estoque;#
+91;BW;Gerencial - Produtos Acabados (PA) -  Usina e CD;VM_IC1_M_00000_007;Gestao de Estoque;Query;Gestao de Estoque;#
+92;BW;Gerencial - Produtos Acabados (PA) -  Estoque Manutenção (MRO);VM_IC1_M_00000_006;Gestao de Estoque;Query;Gestao de Estoque;#
+93;BW;Analítico - Estoque em Processo (WIP) -  Semi acabados (Aproveitamento);VM_MMIC_C_00000_007;Gestao de Estoque;Query;Gestao de Estoque;#
+94;BW;Analítico - Estoque em Processo (WIP) -   Em Processamento (Ordens);VM_CART_C_57200_001;Gestao de Estoque;Query;Gestao de Estoque;#
+95;BW;Analítico - Produtos Acabados (PA) -  Usina;VM_MMIC_C_00000_021;Gestao de Estoque;Query;Gestao de Estoque;#
+96;BW;Analítico - Produtos Acabados (PA) -   Estoque CD na Usina;VM_MMIC_C_00000_003;Gestao de Estoque;Query;Gestao de Estoque;#
+97;BW;Aging - Usina;VM_MMIC_C_00000_002;Gestao de Estoque;Query;Gestao de Estoque;#
+98;BW;Flash;VM_FLASH_00000_002;Gestao de Producao;Query;Gestao de Producao;#
+99;BW;Evolução da Pesagem;VM_WT_PPCO_001;Gestao de Producao;Template;Gestao de Producao;#
+100;BW;Relatório Analítico - Evolução a Pesagem;VM_AUFNR_M_00000_001;Gestao de Producao;Query;Gestao de Producao;#
+101;BW;Relatório Saldo de pesagem;VM_CART_C_00000_002;Gestao de Producao;Query;Gestao de Producao;#
+102;BW;Aderência ao programa de produção (Ordens);VMOPP02_00000_001;Gestao de Producao;Query;Gestao de Producao;#
+103;BW;Lead Time Operações;VM_LTOP_DVM001;Gestao de Producao;Query;Gestao de Producao;#
+104;BW;Backlog Produção;VM_WT_MSD03_003;Gestao de Producao;Template;Gestao de Producao;#
+105;BW;Analítico Produção Aciaria;VM_AUFNR_00000_001_1;Gestao de Producao;Query;Gestao de Producao;#
+106;BW;CART;VM_WT_CART_001;Gestao de Producao;Template;Gestao de Producao;#
+107;BW;Peso Previsto x Minutado;VM_VMMSD008_00000_001;Gestao de Producao;Query;Gestao de Producao;#
+108;BW;Faturamento PCP;VM_FLASH_7364_001;Gestao de Producao;Query;Gestao de Producao;#
+109;BW;Planejamento;VM_PLFLO_06854_002;Gestao de Producao;Query;Gestao de Producao;#
+110;BW;** Análise de Rentabilidade **;VM_PAF_C_00000_11;Gestao de Resultado;Query;Gestao de Resultado;#
+111;BW;** Análises de variação de Receita e Custo **;VM_PAF_C_00000_012;Gestao de Resultado;Query;Gestao de Resultado;#
+112;BW;** Análise de Custo de Reposição  **;VM_PAF_C_57200_006_8_2;Gestao de Resultado;Query;Gestao de Resultado;#
+113;BW;Analítico Fatc/ Devolução;VM_SD03_C_00000_007;Gestao de Vendas;Query;Gestao de Vendas;#
+114;BW;Analítico Faturamento;VM_SD03_C_00000_005;Gestao de Vendas;Query;Gestao de Vendas;#
+115;BW;**Order Intake - SD**;VM_SDPA_C_00000_003;Gestao de Vendas;Query;Gestao de Vendas;#
+116;BW;OTIF;VM_VMCSD08_00000_001;Gestao de Vendas;Query;Gestao de Vendas;#
+117;BW;Ordens de Vendas Pendentes;VM_SDPP_I_57200_001;Gestao de Vendas;Query;Gestao de Vendas;#
+118;BW;Backlog Vendas;VM_SDBL_M_00000_005;Gestao de Vendas;Query;Gestao de Vendas;#
+119;BW;Check Backlog x Estoque x CART;VM_VMSDRP02_00000_001;Gestao de Vendas;Query;Gestao de Vendas;#
+120;BW;Faturado e não Embarcados Analítico;VM_DS_03_00000_001;Gestao de Vendas;Query;Gestao de Vendas;#
+121;BW;Acompanhamento de Clientes;VM_FLASH_00000_008;Gestao de Vendas;Query;Gestao de Vendas;#
+122;BW;Gestão de Clientes - Automotivo;VM_VMMPVP01_06854_001;Gestao de Vendas;Query;Gestao de Vendas;#
+123;BW;**Order Intake Usina - Resultado Operacional**;VM_PAF_C_00000_57;Gestao de Vendas;Query;Gestao de Vendas;#
+124;BW;**Order Intake CD-Resultado Operafcional;VM_PAF_C_00000_58;Gestao de Vendas;Query;Gestao de Vendas;#
+125;BW;Order Intake Oficial - COPA (a partir 05/2021);VM_PAF_C_00000_52_NEW;Gestao de Vendas;Query;Gestao de Vendas;#
+126;BW;**Order Intakle Oficial - COPA**;VM_PAF_C_00000_52;Gestao de Vendas;Query;Gestao de Vendas;#
+127;BW;Análise de Crédito;VM_HU1_M_00000_001;Gestao de Vendas;Query;Gestao de Vendas;#
+128;BW;Acompanhamento Transferência Consignado;VM_HU1_M_00000_001;Gestao de Vendas;Query;Gestao de Vendas;#
+129;BW;Devoluções;vm_SD03_c_00000_007;Gestao de Vendas;Query;Gestao de Vendas;#
+130;BW;Ranking Clientes - MI;VM_FIAR_C_00000_001;Gestao Financeira;Query;Gestao Financeira;#
+131;BW;Evolução Saldo AR x Faturamento;VM_SDFI_M_00000_001;Gestao Financeira;Query;Gestao Financeira;#
+132;BW;Aging;VM_FIAR_C_00000_012;Gestao Financeira;Query;Gestao Financeira;#
+133;BW;Aging ME;VM_FIAR_C_00000_019;Gestao Financeira;Query;Gestao Financeira;#
+134;BW;Exposição de crédito;VM_FIARMC_00000_002;Gestao Financeira;Query;Gestao Financeira;#
+135;BW;Crédito;VM_FIARMC_00000_001;Gestao Financeira;Query;Gestao Financeira;#
+136;BW;Gerenciamento de Crédito;VM_VM_FIARC9_00000_001;Gestao Financeira;Query;Gestao Financeira;#
+137;BW;Ledger;VM_U_FIGLN_57200_002;Gestao Financeira;Query;Gestao Financeira;#
+138;BW;Resultado Operacional;ABUB_PAF_C_00000_001;Controladoria;AO;Controladoria;#
+139;BW;Order Intake;ABUB_PA_C_00000_001;ABUB Corporate;Query;ABUB Corporate;#
+140;BW;Saldo Estoque   ;ABUB_MMIC_C_00000_001;ABUB Corporate;Query;ABUB Corporate;#
+141;BW;Cobertura do Estoque  ;ABUB_IC1_M_00000_01;ABUB Corporate;Query;ABUB Corporate;#
+142;BW;Cotações;ABUB_VMCSD05_6854_001;ABUB Corporate;Query;ABUB Corporate;#
+143;BW;Análise de Faturamento;ABUB_SD03_C_00000_002;ABUB Corporate;Query;ABUB Corporate;#
+144;BW;Backlog;ABUB_SDBL_M_00000_001;ABUB Corporate;Query;ABUB Corporate;#
+145;BW;Despesas;VM_CCA_00000_006_10;ABUB Corporate;Query;ABUB Corporate;#
+146;BW;Estoque Reposição      ;ABUB_MMIC_C_00000_002;ABUB Corporate;Query;ABUB Corporate;#
+147;BW;Posição do Estoque ;ABUB_IC1_M_00000_003;ABUB Corporate;Query;ABUB Corporate;#
+148;PBI;BI EBIT;https://app.powerbi.com/groups/73ef8bdb-82a8-4145-a937-26f8e7bcebbb/reports/4c964422-ebe9-4162-8d25-9384b16ed0b3;ABUB Comercial;PBI;ABUB Comercial;#
+149;PBI;BI Vendas;https://app.powerbi.com/groups/73ef8bdb-82a8-4145-a937-26f8e7bcebbb/reports/908b8a4d-bf4d-4ddb-8514-5e479341323b;ABUB Comercial;PBI;ABUB Comercial;#
+150;PBI;Comercial Ano fiscal;https://app.powerbi.com/groups/73ef8bdb-82a8-4145-a937-26f8e7bcebbb/reports/98fdf81c-2134-47bc-a2b2-50b628a5c5a7;ABUB Comercial;PBI;ABUB Comercial;#
+151;PBI;Gerente de Contas Ano Fiscal;https://app.powerbi.com/groups/73ef8bdb-82a8-4145-a937-26f8e7bcebbb/reports/da6dcf00-470a-4c82-a46a-ea8828c98d13;ABUB Comercial;PBI;ABUB Comercial;#
+152;PBI;Vendedores Ano Fiscal;https://app.powerbi.com/groups/73ef8bdb-82a8-4145-a937-26f8e7bcebbb/reports/8b0067fd-4b11-4d40-8874-9b9cb60e92af;ABUB Comercial;PBI;ABUB Comercial;#
+153;PBI;Evolução Contas a Receber;https://app.powerbi.com/groups/73ef8bdb-82a8-4145-a937-26f8e7bcebbb/reports/ba14c27b-3bb9-431c-b1e4-cd5b4ce388cf;ABUB Comercial;PBI;ABUB Comercial;#
+154;PBI;Comercial Ano fiscal;https://app.powerbi.com/groups/6036c514-fb59-4e8b-ab0d-0e6f3b817a95/reports/7c249327-537c-4815-9eb1-11ecd6db37e3;ABUB Gerencia;PBI;ABUB Gerencia;#
+155;PBI;Regiao de Vendas Ano Fiscal;https://app.powerbi.com/groups/6036c514-fb59-4e8b-ab0d-0e6f3b817a95/reports/e44ce7a5-9341-42de-adcb-3a237f200967;ABUB Gerencia;PBI;ABUB Gerencia;#
+156;PBI;Usinas Ano Fiscal;https://app.powerbi.com/groups/6036c514-fb59-4e8b-ab0d-0e6f3b817a95/reports/abe8bc9c-8cfb-44fa-bbf0-d4304592b2bc;ABUB Gerencia;PBI;ABUB Gerencia;#
+157;PBI;Desempeho Interno;https://app.powerbi.com/groups/83516a15-daa0-4df2-8c9f-edf338557816/reports/f87f32b1-78b1-45ba-bcb8-6c33fc8319c9;ABUB KPI;PBI;ABUB KPI;#
+158;PBI;Usinas Ano Fiscal;https://app.powerbi.com/groups/6036c514-fb59-4e8b-ab0d-0e6f3b817a95/reports/abe8bc9c-8cfb-44fa-bbf0-d4304592b2bc;ABUB Gerencia;PBI;ABUB Gerencia;#
+159;PBI;Overview Delivery Time;https://app.powerbi.com/groups/83516a15-daa0-4df2-8c9f-edf338557816/reports/3405a966-25a8-4bec-a256-4166f1e429d9;ABUB KPI;PBI;ABUB KPI;#
+166;PDF;Power BI x Query - Boas Práicas;Power BI x Query - Boas Práicas.pdf;Documentacao;PDF;Documentacao;#
+160;PBI;Retorno 2021;https://app.powerbi.com/groups/83516a15-daa0-4df2-8c9f-edf338557816/reports/5786e27d-fe00-47a6-b635-b6367ba13527;ABUB KPI;PBI;ABUB KPI;#
+161;PDF;Power BI - O que eu preciso;Power BI - O que eu preciso.pdf;Documentacao;PDF;Documentacao;#
+162;PDF;Treinameto de Query Designer;Treinamento_BW  - Query Designer.pdf;Documentacao;PDF;Documentacao;#
+163;PDF;Manual Basico - Analysis For Office;Manual Basico Analysis For Office.pdf;Documentacao;PDF;Documentacao;#
+164;Link;Usar os links do OneDrive for Business no Power BI Desktop;https://docs.microsoft.com/pt-br/power-bi/connect-data/desktop-use-onedrive-business-links;Documentacao;Link;Documentacao;#
+165;PDF;Power BI - Configurando conexão com BW;Conexão Power BI - BW.pdf;Documentacao;PDF;Documentacao;#
+166;PDF;Power BI no PowerPoint - Passo a Passo;PowerBI no PowerPoint - Passo a Passo.pdf;Documentacao;PDF;Documentacao;#
+167;DOC;BW - FIAA: Imobilizado Mensal;page=BW_O_D&SystemID=W0T_100&ClassID=ADSO&ID=VMAARA01&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+168;DOC;BW - Ordem de Produção;page=BW_O_D&SystemID=W0T_100&ClassID=IOBJ&ID=VM_AUFNR&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+169;DOC;BW - Carteira de Ordem de Produção;page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VM_CART_C&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+170;DOC;BW - Contabilidade de Centro de Custo;page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VM_CCA_C&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+171;DOC;BW - Consumo Material;page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VM_COSMC&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+172;DOC;BW - Produção - Sintético;page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VM_DICDC&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+173;DOC;BW - Itens de Documento de Faturamento;page=BW_O_D&SystemID=W0T_100&ClassID=ODSO&ID=VM_DS_03&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+174;DOC;BW - Contabilidade Geral (novo);page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VM_FGLN_C&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+175;DOC;BW - Contabilidade - Recebíveis (FI-AR);page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VM_FIAR_C&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+176;DOC;BW - FIAR (Recebíveis + Crédito);page=BW_O_D&SystemID=W0T_100&ClassID=MPRO&ID=VM_FIARMC&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+177;DOC;BW - Relatório Flash;page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VM_FLASH&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+178;DOC;BW - Análise de Crédito;page=BW_O_D&SystemID=W0T_100&ClassID=HCPR&ID=VM_HU1_M&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+179;DOC;BW - Controle de Estoques - Saldo Período (Valor Real);page=BW_O_D&SystemID=W0T_100&ClassID=MPRO&ID=VM_IC1_M&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+180;DOC;BW - Nº cliente;page=BW_O_D&SystemID=W0T_100&ClassID=IOBJ&ID=VM_KUNNR&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+181;DOC;BW - Controle de Estoques (Inventory Controlling);page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VM_MMIC_C&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+182;DOC;BW - CO - Análise de Resultados (CO-PA) - Reporting;page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VM_PA_C&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+183;DOC;BW - CO - Análise de Resultados (CO-PA) - Gerencial;page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VM_PAF_C&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+184;DOC;BW - Controlling - Product Cost Controlling;page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VM_PC_C01&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+185;DOC;BW - Perda por Sucateamento;page=BW_O_D&SystemID=W0T_100&ClassID=HCPR&ID=VM_PC_M02&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+186;DOC;BW - Planejamento FLASH;page=BW_O_D&SystemID=W0T_100&ClassID=ODSO&ID=VM_PLFLO&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+187;DOC;BW - PP + Ord. Produção;page=BW_O_D&SystemID=W0T_100&ClassID=MPRO&ID=VM_PPCO_I&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+188;DOC;BW - Estratificação de custos por atividade;page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VM_PPCO03&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+189;DOC;BW - Ordem de Produção - Rendimento;page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VM_PPRE_C&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+190;DOC;BW - Produção CD;page=BW_O_D&SystemID=W0T_100&ClassID=MPRO&ID=VM_PRCDM&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+191;DOC;BW - Produção - Analítico;page=BW_O_D&SystemID=W0T_100&ClassID=ODSO&ID=VM_PRCDO&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+192;DOC;BW - Perdas por Sucatamento;page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VM_PSC_C&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+193;DOC;BW - QM - Notificações;page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VM_QM_C1&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+194;DOC;BW - Vendas;page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VM_SD03_C&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+195;DOC;BW - Backlog;page=BW_O_D&SystemID=W0T_100&ClassID=MPRO&ID=VM_SDBL_M&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+196;DOC;BW - Faturamento + Contas a Receber;page=BW_O_D&SystemID=W0T_100&ClassID=MPRO&ID=VM_SDFI_M&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+197;DOC;BW - Order Intake Valorizado;page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VM_SDPA_C&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+198;DOC;BW - Tarifas - Material Ledger;page=BW_O_D&SystemID=W0T_100&ClassID=ODSO&ID=VM_TAR_O&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+199;DOC;BW - Notas Fiscais;page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VMCNF01&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+200;DOC;BW - Compras - Divisão de Remessa;page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VMCPUR1&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+201;DOC;BW - Compras - Itens do documento;page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VMCPUR2&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+202;DOC;BW - Compras - Faturas MM;page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VMCPUR3&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+203;DOC;BW - Cotações;page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VMCSD05&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+204;DOC;BW - Service Level (Produção);page=BW_O_D&SystemID=W0T_100&ClassID=CUBE&ID=VMCSD08&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+205;DOC;BW - KPIs de Projetos;page=BW_O_D&SystemID=W0T_100&ClassID=ADSO&ID=VMGLBA02&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+206;DOC;BW - Desempenho Centro de Custo;page=BW_O_D&SystemID=W0T_100&ClassID=MPRO&ID=VMMCCA01&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+207;DOC;BW - Gestão de compras (Pedidos de compras);page=BW_O_D&SystemID=W0T_100&ClassID=MPRO&ID=VMMCPUR1&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+208;DOC;BW - FM - Orç / Disp / Comp / Real;page=BW_O_D&SystemID=W0T_100&ClassID=HCPR&ID=VMMFM01&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+209;DOC;BW - Desempenho Centro de Custo;page=BW_O_D&SystemID=W0T_100&ClassID=MPRO&ID=VMMPPCO01&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+210;DOC;BW - Analítico de Faturamento + COPA;page=BW_O_D&SystemID=W0T_100&ClassID=HCPR&ID=VMMSD007&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+211;DOC;BW - Comparativo Vendas x Produção;page=BW_O_D&SystemID=W0T_100&ClassID=HCPR&ID=VMMSD008&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+212;DOC;BW - Backlog Valorizado;page=BW_O_D&SystemID=W0T_100&ClassID=MPRO&ID=VMMSD03&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+213;DOC;BW - Custos de Material em Produção;page=BW_O_D&SystemID=W0T_100&ClassID=MPRO&ID=VMMWIP&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+214;DOC;BW - Aderência ao Progr. Produção;page=BW_O_D&SystemID=W0T_100&ClassID=ODSO&ID=VMOPP02&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+215;DOC;BW - WIP + Estoque a valor real;page=BW_O_D&SystemID=W0T_100&ClassID=MPRO&ID=VMWIPIC_M&objectVersion=A.html;Documentacao;Doc;Documentacao;#
+216;AO;Análise de Despesas (Base) ;http://vahpmbpodb.voestalpine.root.local:8080/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Af.MjfBKXoBNqjVjeWxx_us;AO;AO;AO;#
+217;AO;Ajuste a Valor de Mercado CD ;http://vahpmbpodb.voestalpine.root.local:8080/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Af3s04FfyExHsUHJfGCt0RU;AO;AO;AO;#
+218;AO;Ajuste a Valor de Mercado SU ;http://vahpmbpodb.voestalpine.root.local:8080/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfYIMFaAHSBOrRIiPedaFcQ;AO;AO;AO;#
+219;AO;Dados Backlog ;http://vahpmbpodb.voestalpine.root.local:8080/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ASrsb8W_amdJnglqu5VSanU;AO;AO;AO;#
+220;AO;Dados WIP ;http://vahpmbpodb.voestalpine.root.local:8080/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AQ5TgeFAzfBGjP...Xyuj1g;AO;AO;AO;#
+221;PBI;Profitability 2020-2021.;https://app.powerbi.com/groups/7a28a71a-741f-4f16-84c1-22bf7d89d5dd/reports/5c6abbb6-6635-4768-9ad7-1983b58ac588?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Control Vendas Profitability;PBI;PBI;#
+222;PBI;Profitability 2021-2022;https://app.powerbi.com/groups/7a28a71a-741f-4f16-84c1-22bf7d89d5dd/reports/28c6cc02-c431-4b48-a366-ee83c993488a?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Control Vendas Profitability;PBI;PBI;#
+223;PBI;Acompanhamento Preços MP's;https://app.powerbi.com/links/Xkp0n8zrhE?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) MP Preços Inflação Indicadores;PBI;PBI;#
+224;PBI;Análise Criogênicos;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/0022f1ff-d477-43c2-ae38-5670ff45d7de?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) MP Preços Inflação Indicadores;PBI;PBI;#
+225;PBI;Dashboard Drawback;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/c0cb7f04-d170-4a8f-b5a7-4d6fc54ae8cd?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) Drawback;PBI;PBI;#
+226;PBI;Indices BCB_versão final;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/6e702298-47e0-44b0-bf50-c477ae5ed523?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) MP Preços Inflação Indicadores;PBI;PBI;#
+227;PBI;Material Expenses;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/b02c5eae-ff4c-44cb-8419-78eec499d1d3?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) MP Preços Inflação Indicadores;PBI;PBI;#
+228;PBI;Minutamento_Produção;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/124455dc-c798-45a3-807c-115c9ef67e47?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) Despesas Tarifas Ocupação;PBI;PBI;#
+229;PBI;Ocupação;https://app.powerbi.com/links/1-v8HrK8uC?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare&bookmarkGuid=c24fef78-bcd9-446b-b24e-70e4822d2182;Custos (Power BI) Despesas Tarifas Ocupação;PBI;PBI;#
+230;PBI;Preços BOFC;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/a51e96f0-0b0a-4255-aa2d-fad86f378a0d?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) MP Preços Inflação Indicadores;PBI;PBI;#
+232;PBI;Despesas TI;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/5448513d-4bb4-4d24-b689-1f13b09c2f10?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Control GTI;PBI;PBI;#
+233;BW;WIP - Cálculo Provisão > 1 Ano;VM_VMCORP02_00000_001;Control Planejamento;Query;Control Planejamento;#
+234;PBI;Indices BCB;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/6e702298-47e0-44b0-bf50-c477ae5ed523?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Control Planejamento;PBI;PBI;#
+235;PBI;PMF Agosto-21 - Vendas 2021-22;https://app.powerbi.com/groups/9765890b-e9a5-405e-bb9f-2231a73f8d3e/reports/dee04c17-85bb-4ed1-9f39-aafb16f999ba?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Control Planejamento;PBI;PBI;#
+236;PBI;PMF Julho-21 - Vendas 2021-22;https://app.powerbi.com/groups/9765890b-e9a5-405e-bb9f-2231a73f8d3e/reports/f0a49bf1-dd5d-4868-858f-f96b1471eaf2?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Control Planejamento;PBI;PBI;#
+237;PBI;PMF Junho-21 - Vendas 2021-22;https://app.powerbi.com/groups/9765890b-e9a5-405e-bb9f-2231a73f8d3e/reports/580e5c45-0500-4149-8043-aefda9bf1376?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Control Planejamento;PBI;PBI;#
+238;PBI;PMF Maio-21 - Vendas 2021-22;https://app.powerbi.com/groups/9765890b-e9a5-405e-bb9f-2231a73f8d3e/reports/dee04c17-85bb-4ed1-9f39-aafb16f999ba?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Control Planejamento;PBI;PBI;#
+239;PBI;PMF Novembro-21 - Vendas 2021-22;https://app.powerbi.com/groups/9765890b-e9a5-405e-bb9f-2231a73f8d3e/reports/af39a004-9c46-4c42-a980-30f89ea4a26e?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Control Planejamento;PBI;PBI;#
+240;PBI;PMF Outubro-21 - Vendas 2021-22;https://app.powerbi.com/groups/9765890b-e9a5-405e-bb9f-2231a73f8d3e/reports/35ac6186-0536-436c-8571-db688e856577?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Control Planejamento;PBI;PBI;#
+241;PBI;PMF Setembro-21 - Vendas 2021-22;https://app.powerbi.com/groups/9765890b-e9a5-405e-bb9f-2231a73f8d3e/reports/b32bfd37-5005-48d8-92aa-76cc84219ecd?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Control Planejamento;PBI;PBI;#
+242;PBI;Provisões BI - VMSA;https://app.powerbi.com/groups/9765890b-e9a5-405e-bb9f-2231a73f8d3e/reports/5dc3cd3a-2b0a-4e8f-bbcc-5541b794e400?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Control Planejamento;PBI;PBI;#
+243;PBI;BI EBIT ABUB;https://app.powerbi.com/groups/e0962c82-ed7c-464c-93f2-2b6ca3cfa555/reports/b5bcf5db-0499-4ac2-b217-87189df6c1ba?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;ABUB Controladoria;PBI;PBI;#
+244;PBI;BI ESTOQUES ABUB;https://app.powerbi.com/groups/e0962c82-ed7c-464c-93f2-2b6ca3cfa555/reports/e6f56d88-71f6-4df5-8ebc-7f931deccc8a?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;ABUB Controladoria;PBI;PBI;#
+245;PBI;BI Vendas ABUB;https://app.powerbi.com/links/U5m6-oMnUW?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;ABUB Controladoria;PBI;PBI;#
+246;PBI;Despesas ABUB;https://app.powerbi.com/groups/34f462c1-96ec-4414-825c-f73ce78e3c1c/reports/54f917f6-179a-4f53-82aa-24fc439e3056?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;ABUB Controladoria;PBI;PBI;#
+247;PBI;Evolução Contas a Receber ABUB;https://app.powerbi.com/groups/34f462c1-96ec-4414-825c-f73ce78e3c1c/reports/ee13c779-b4fe-4939-a6f9-5976e84e3918?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;ABUB Controladoria;PBI;PBI;#
+248;PBI;KPI ESTOQUES ABUB;https://app.powerbi.com/groups/73ef8bdb-82a8-4145-a937-26f8e7bcebbb/reports/5103b5d4-0ba0-4c1d-9128-116da0741d14?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;ABUB Controladoria;PBI;PBI;#
+249;PBI;Power BI Vendas Budget 22-23 ABUB;https://app.powerbi.com/links/2y7letM_8B?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;ABUB Controladoria;PBI;PBI;#
+250;PBI;Provisões - ABUB;https://app.powerbi.com/links/mZl2xYKW2R?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;ABUB Controladoria;PBI;PBI;#
+327;PBI;Dados Vendas – Aeronáutico;https://app.powerbi.com/groups/68f0e62b-cd17-4334-a989-9fc5c9921bf8/reports/daada0a2-5eb9-459c-a9f9-d60a1d1585ac?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Informações Comerciais;PBI;PBI;#
+252;PBI;Lingotamento Contínuo;https://app.powerbi.com/groups/2819e8cc-696d-46e8-b5a8-ab2c92bbd600/reports/b6f20243-2476-46da-8840-e5e3998b11c0?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Aciaria Convencional;PBI;PBI;#
+253;PBI;Produção Aciaria;https://app.powerbi.com/groups/09eb8c3b-6dda-4e38-8b57-850b8f25852d/reports/5b904b67-8fb4-4e8c-a233-c456aa022108?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Aciaria Convencional;PBI;PBI;#
+254;PBI;Tempo de Paradas;https://app.powerbi.com/groups/2819e8cc-696d-46e8-b5a8-ab2c92bbd600/reports/c89ae7aa-8452-47eb-a45b-fb0593a621ac?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Aciaria Convencional;PBI;PBI;#
+255;AO;Planejamento Budget TI;http://vahpmbpodb.voestalpine.root.local:8080/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ATS1.5iHrQ5BnaxidaWdI9c;GTI;AO;AO;#
+327;PBI;Dashboard OG;https://app.powerbi.com/groups/68f0e62b-cd17-4334-a989-9fc5c9921bf8/reports/5cc797d3-5151-4c1b-8d46-9dc5de565670?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Informações Comerciais;PBI;PBI;#
+327;PBI;Despesa Distribuição;https://app.powerbi.com/groups/68f0e62b-cd17-4334-a989-9fc5c9921bf8/reports/c3d1419f-0a46-4035-ab53-63f3de9ebfee?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Informações Comerciais;PBI;PBI;#
+259;PBI;VMNL’s figures 2020-21 (2423_VMI);https://app.powerbi.com/groups/c87f80f9-a0f6-4b65-9bb6-08cd75914469/reports/4129ac8d-2b6c-4d50-ab19-13fb190ba2e7?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) VMNL;PBI;PBI;#
+260;PBI;VMNL’s figures 2021-22 (2423_VMI);https://app.powerbi.com/groups/c87f80f9-a0f6-4b65-9bb6-08cd75914469/reports/8caf0ad7-d62a-455f-a2b7-37a67e441a3a?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) VMNL;PBI;PBI;#
+261;PBI;Planejamento Vendas 2022-23 a 2026-27;https://app.powerbi.com/groups/9765890b-e9a5-405e-bb9f-2231a73f8d3e/reports/b88b233e-5e48-4b4d-9edd-793e86576452?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Control Planejamento;PBI;PBI;#
+262;PBI;PMF 2022_23 (Abril-22) Bauer;https://app.powerbi.com/groups/9765890b-e9a5-405e-bb9f-2231a73f8d3e/reports/56381144-cf33-4b54-9990-26ccf4febc41?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Control Planejamento;PBI;PBI;#
+263;PBI;KPI Desempenho MP;https://app.powerbi.com/groups/7419d39b-e933-4385-abdd-94dbc3a1306b/reports/dabbccb2-03c6-4dd9-a0a7-943c6a57b06d?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Area MP;PBI;PBI;#
+264;PBI;KPI Inspeção Sucata Comprada;https://app.powerbi.com/groups/09eb8c3b-6dda-4e38-8b57-850b8f25852d/reports/37d89ec9-6391-46b8-9f0e-a1038f8c71e6?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Area MP;PBI;PBI;#
+265;PBI;KPI OEE AMP;https://app.powerbi.com/groups/7419d39b-e933-4385-abdd-94dbc3a1306b/reports/070f8900-4551-4ab4-95df-e41ff608d5de?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Area MP;PBI;PBI;#
+266;PBI;KPI Produção AMP;https://app.powerbi.com/groups/7419d39b-e933-4385-abdd-94dbc3a1306b/reports/97826de9-f76d-492e-90a3-859dd06223f1?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Area MP;PBI;PBI;#
+267;PBI;KPI Segurança AMP;https://app.powerbi.com/groups/7419d39b-e933-4385-abdd-94dbc3a1306b/reports/151fb401-7dd3-4e0f-a6af-6a7f0ae28d4b?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Area MP;PBI;PBI;#
+268;PBI;Preços BOFC;https://app.powerbi.com/groups/7419d39b-e933-4385-abdd-94dbc3a1306b/reports/5d4185e8-aa58-44a6-8744-52754abad031?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Area MP;PBI;PBI;#
+269;PBI;GF2 - KPI - Ac. Convencional;https://app.powerbi.com/groups/6ec17207-efa6-409b-a3e1-c96e4b5f4934/reports/a23a97ed-d182-426a-b1e7-5d59b8b5ea6e?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;CEMP;PBI;PBI;#
+270;PBI;GF2 - KPI - Ac. Especial;https://app.powerbi.com/groups/6ec17207-efa6-409b-a3e1-c96e4b5f4934/reports/9c97a43c-a04b-4058-bd77-370d2e3bbef5?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;CEMP;PBI;PBI;#
+271;PBI;GF3 - KPI - Recliclagem de Copro;https://app.powerbi.com/groups/6ec17207-efa6-409b-a3e1-c96e4b5f4934/reports/a860d264-e4a0-44b1-a053-4684894399f2?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;CEMP;PBI;PBI;#
+272;PBI;GF4 - KPI - Entrada de Sucata;https://app.powerbi.com/groups/6ec17207-efa6-409b-a3e1-c96e4b5f4934/reports/1d44088b-a619-4aec-b3dd-22ac950e2adf?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;CEMP;PBI;PBI;#
+273;PBI;Banco de Horas ; https://app.powerbi.com/groups/a4a48a20-4030-42ec-8897-6be95d0d453c/reports/42238e51-c650-4a1c-9f78-7d693bcc0e43?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Jornada Trabalho;PBI;PBI;#
+274;PBI;Irregularidades Histórico ;https://app.powerbi.com/groups/a4a48a20-4030-42ec-8897-6be95d0d453c/reports/b7cb2511-803c-41ce-8804-a6a1b3b5d243?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Jornada Trabalho;PBI;PBI;#
+275;PBI;Irregularidades ONLINE ;https://app.powerbi.com/groups/a4a48a20-4030-42ec-8897-6be95d0d453c/reports/75c76216-8501-42e2-b339-87c44c399ab7?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare&bookmarkGuid=4a613529-c3e2-4c74-b342-227302088a7e;Jornada Trabalho;PBI;PBI;#
+276;PBI;Headcount;https://app.powerbi.com/groups/5355ace5-a56c-4a01-a876-a2c62b2a03fb/reports/cb3235a4-b706-45e8-bfe7-5cc3b316fd02?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Headcount;PBI;PBI;#
+277;PBI;PLRO SU;https://app.powerbi.com/groups/a4a48a20-4030-42ec-8897-6be95d0d453c/reports/658ccf2e-44a5-4df0-9aa2-4fdb719f55a0?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;PLR 21 22;PBI;PBI;#
+278;PBI;PLRO FC;https://app.powerbi.com/groups/5e4fe075-fd16-4fa6-980a-c1edc1a5d00b/reports/dbc55365-5a2a-429b-816f-c495a68d4ae5?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;PLR 21 22;PBI;PBI;#
+279;PBI;PLRO JV;https://app.powerbi.com/groups/5e4fe075-fd16-4fa6-980a-c1edc1a5d00b/reports/2885ee7c-b74e-471b-b196-bd39d1682b78?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;PLR 21 22;PBI;PBI;#
+280;PBI;PLRO VP;https://app.powerbi.com/groups/5e4fe075-fd16-4fa6-980a-c1edc1a5d00b/reports/c1653c38-4a7d-4855-9561-41b7582ac308?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;PLR 21 22;PBI;PBI;#
+281;PBI;PLRO Geral;https://app.powerbi.com/groups/a4a48a20-4030-42ec-8897-6be95d0d453c/reports/2a3e4386-70bb-4e3e-afba-35e11b7586c3?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;PLR 21 22;PBI;PBI;#
+282;PBI;Em Desenvolvimento;#;PLR 22 23;PBI;PBI;#
+283;PBI;Em Desenvolvimento;#;Headcount abub;PBI;PBI;#
+284;PBI;PLR 2021/22;https://app.powerbi.com/groups/cf186ff9-28df-47b7-b2ff-5f28386ed2e3/reports/1adad2fb-d747-4123-a4b5-d5e7c669717f?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;PLR 21 22 abub;PBI;PBI;#
+285;PBI;Em Desenvolvimento;#;PLR 22 23 abub;PBI;PBI;#
+286;PBI;Custo de Não-Qualidade;https://app.powerbi.com/groups/98830c5b-e35f-4781-9dfa-1213b2a52d0f/reports/d09ed79c-b65b-4440-b702-248c163ebc8a?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare&bookmarkGuid=00044f5a-75b6-4328-8eeb-60b1f0f10563;Tec Qualidade;PBI;PBI;#
+287;PBI;Refugo e Retrabalho;https://app.powerbi.com/groups/98830c5b-e35f-4781-9dfa-1213b2a52d0f/reports/f074c461-b9a1-4641-9854-3c8d802ee29e?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare&bookmarkGuid=cbce4480-e6fd-4bea-aec6-bb56f663f33a;Tec Qualidade;PBI;PBI;#
+288;PBI;Atrasos;https://app.powerbi.com/links/YJSXKhtXJ_?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Tec Qualidade;PBI;PBI;#
+290;BW;Consumo  Energia Aciaria Especial;VM_VMMISVP01_00000_001;MIS BW;Query;MIS BW;#
+291;BW;Consumo  Energia Aciaria Convencional;VM_VMMISVP02_00000_001;MIS BW;Query;MIS BW;#
+292;BW;Escória;VM_VMMISVP03_00000_001;MIS BW;Query;MIS BW;#
+293;BW;Produção;VM_VMMISVP04_00000_001;MIS BW;Query;MIS BW;#
+294;BW;Tempo de Parada;VM_VMMISVP05_00000_001;MIS BW;Query;MIS BW;#
+295;BW;Tempo de Parada OEE Diário;VM_VMMISVP06_00000_001;MIS BW;Query;MIS BW;#
+296;BW;Tempo de Parada OEE Diário Detalhes;VM_VMMISVP07_00000_001;MIS BW;Query;MIS BW;#
+297;BW;Tempo de Parada OEE Semanal;VM_VMMISVP08_00000_001;MIS BW;Query;MIS BW;#
+298;BW;Tempo de Parada OEE Mensal;VM_VMMISVP09_00000_001;MIS BW;Query;MIS BW;#
+299;BW;Tempo de Parada OEE Anual;VM_VMMISVP10_00000_001;MIS BW;Query;MIS BW;#
+300;BW;Tempo de Parada OEE Perf Obejetivada;VM_VMMISVP11_00000_001;MIS BW;Query;MIS BW;#
+301;PBI;Atraso atribuídos aos Laboratórios;https://app.powerbi.com/groups/9ab45e53-9eab-416f-8dce-54f2b0b54680/reports/6519b350-9165-4351-b127-c9d0e172e236?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Tec Laboratorio;PBI;PBI;#
+302;PBI;Análise de Custos dos Laboratórios;https://app.powerbi.com/groups/9ab45e53-9eab-416f-8dce-54f2b0b54680/reports/2e650dfa-2091-4434-bed2-525d11726bb1?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Tec Laboratorio;PBI;PBI;#
+303;PBI;Controle Horas Extras Laboratórios;https://app.powerbi.com/groups/9ab45e53-9eab-416f-8dce-54f2b0b54680/reports/38a99f86-9854-47da-9d17-30ea150e26f7?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Tec Laboratorio;PBI;PBI;#
+304;PBI;Lead Time de calibrações da Instrumentação;https://app.powerbi.com/groups/9ab45e53-9eab-416f-8dce-54f2b0b54680/reports/a9d9b9aa-72b0-4ecf-aef9-65eb6d1bf29a?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Tec Laboratorio;PBI;PBI;#
+305;PBI;Lead Time de calibrações da Metrologia;https://app.powerbi.com/groups/9ab45e53-9eab-416f-8dce-54f2b0b54680/reports/f9f171bc-2de9-4263-bfe4-94b55245414d?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Tec Laboratorio;PBI;PBI;#
+306;PBI;Lead Time de ensaios;https://app.powerbi.com/groups/9ab45e53-9eab-416f-8dce-54f2b0b54680/reports/da77fda0-9af4-429a-9f1f-8b5cf350f461?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Tec Laboratorio;PBI;PBI;#
+307;PBI;Tempo de Análise Química;https://app.powerbi.com/groups/9ab45e53-9eab-416f-8dce-54f2b0b54680/reports/c3bd75c1-1401-4fd6-9711-c6f52beaf039?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Tec Laboratorio;PBI;PBI;#
+308;PBI;Desempenho Decapagem;https://app.powerbi.com/groups/9ab45e53-9eab-416f-8dce-54f2b0b54680/reports/3c9f5691-03ab-40ca-8a55-4b83258a9f69?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Processos Químicos;PBI;PBI;#
+309;BW;Resultado Operacional;ABUB_PAF_C_00000_001;ABUB Corporate;Query;ABUB Corporate;#
+310;BW;Análise de Custos Padrão Multinível;VM_VMCOVP02_00000_001;Custos (BW) Análise de Custo;Query;Gestao de Custo;#
+311;BW;Refugo - ZP07;VM_QM_C1_06854_001;Gestao da Qualidade;Query;Gestao da Qualidade;#
+312;BW;Controle de Orçamento (FM) – Abertura suplemento e transferência;VM_VMMCP04_00000_001;Custos (BW) FM;Query;Gestao de Custo;#
+313;BW;RECOF SYS - Exportação_DUE;VM_VMCEVP01_00000_001;Contabil Geral;Query;Contabil Geral;#
+314;BW;Rede;VM_VMPPCP01_00000_002;Gestao de Producao;Query;Gestao de Producao;#
+315;PBI;Produtividade – VMSA;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/04482829-8026-44e7-91ad-b26078f699dc?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) Despesas Tarifas Ocupação;PBI;PBI;#
+316;PBI;Perdas com Sucateamento - VMSA;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/aa787fd0-c9fd-4f83-adc1-edd1aa8e4d79?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) Indicadores de Qualidade;PBI;PBI;#
+317;BW;Sucateamento Material Multinivel;VM_VMQMVP01_00000_1;Gestao da Qualidade;Query;Gestao de Custo;#
+318;BW;Análise de Custos Multiníveis;VM_VMCOVP05_00000_001;Custos (BW) Análise de Custo;Query;Gestao de Custo;#
+319;PBI;Dados Vendas - Aeronáutico;https://app.powerbi.com/groups/me/reports/daada0a2-5eb9-459c-a9f9-d60a1d1585ac?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Control Vendas;PBI;PBI;#
+320;PBI;Despesa de Distribuição ;https://app.powerbi.com/groups/68f0e62b-cd17-4334-a989-9fc5c9921bf8/reports/c3d1419f-0a46-4035-ab53-63f3de9ebfee?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) Despesas Tarifas Ocupação;PBI;PBI;#
+321;PBI;WCM KPI 22.23;https://app.powerbi.com/groups/a9e1b5e8-4390-4789-96d1-26a76bb643da/reports/d012574f-7847-4757-844f-5dc55c6c5eeb/ReportSection;WCM;PBI;PBI;#
+322;BW;Detalhes pedidos, por centro e conta contábil;VM_VMMCPUR1_06854_002;Custos (BW) Despesas Tarifas e Ocupação;Query;Gestao de Custo;#
+323;PBI;Apresentação de Custos e Resultado ABUB;https://app.powerbi.com/groups/e0962c82-ed7c-464c-93f2-2b6ca3cfa555/list;ABUB Corporate;PBI;ABUB Corporate;#
+324;PBI;Apresentação de Custos e Resultado VMSA;https://app.powerbi.com/groups/5355ace5-a56c-4a01-a876-a2c62b2a03fb/list;Custos (Power BI) Apresentações;PBI;PBI;#
+325;PBI;Despesas Gerais VMSA;https://app.powerbi.com/groups/941d7fdb-43a4-475b-b35b-b5f109afc11d/reports/61c949e0-2f56-4e7b-9da1-dd846af29414?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) Despesas Tarifas Ocupação;PBI;PBI;#
+326;PBI;Despesas ADM;https://app.powerbi.com/groups/941d7fdb-43a4-475b-b35b-b5f109afc11d/reports/63a16666-1aca-480e-9b48-e929c1d6081d/ReportSectiondc027284dc033743e035;Custos (Power BI) Despesas Tarifas Ocupação;PBI;PBI;#
+328;PBI;Performance CC's Produtivos;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/3075577a-86c9-466a-ba56-d23928ace01e?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) Despesas Tarifas Ocupação;PBI;PBI;#
+329;PBI;Acompanhamento diário entrada de materiais;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/3e490263-c5f1-4818-a8ad-ce16a6110558?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare&bookmarkGuid=b6e114f7-5b5d-444a-aeee-9a8806f05b65;Custos (Power BI) MP Preços Inflação Indicadores;PBI;PBI;#
+330;BW;Fluxo de Documentos de Vendas;MSDVP01_00000_001;Gestao CD;Query;Gestao CD;#
+331;BW;Fluxo de Documentos de Produção;VM_VMSDVP02_00000_001;Gestao CD;Query;Gestao CD;#
+332;PBI;VMNL's Figures 2022-23;https://app.powerbi.com/groups/c87f80f9-a0f6-4b65-9bb6-08cd75914469/reports/bee5b1df-8763-4468-9ddd-8d9495de5e8b?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) VMNL;PBI;PBI;#
+333;BW;Balanço BOFC;VM_WD_FI_003;Gestao de Resultado;Template;Gestão de Resultado;#
+334;PBI;KPI – Análise de Margem;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/352ee24a-2501-4085-af21-4497606ef64d?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) Análise Margem;PBI;PBI;#
+335;PBI;KPI – Inflação Interna;https://app.powerbi.com/groups/993a0166-b6bc-4ac8-a43b-9bfe6cfc0c50/reports/53dbcbb4-86e9-40cf-a540-192e9dd9c345?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) MP Preços Inflação Indicadores;PBI;PBI;#
+336;PBI;Profitability 2022-2023;https://app.powerbi.com/groups/7a28a71a-741f-4f16-84c1-22bf7d89d5dd/reports/4737133d-38c0-4a8c-a029-d2cf60307c01?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Control Vendas Profitability;PBI;PBI;#
+337;PBI;Profitability e FCF - Eaton, Mahle and Tenneco;https://app.powerbi.com/groups/7a28a71a-741f-4f16-84c1-22bf7d89d5dd/reports/7bb5ab85-4513-4903-9d17-c84550ba4571?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Control Vendas Profitability;PBI;PBI;#
+338;AO;Consulta Planejamento Budget 2024 (AO);http://vahpmbpodb.voestalpine.root.local:8080/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWLieKxM27xGhl2r2WlfE.8;GTI;AO;AO;#
+339;BW;Consulta Planejamento Budget 2024 (BW);VM_VMPL2VP1_06854_001;GTI;Query;BW;#
+340;BW;Desempenho de Matéria Prima;VM_VMCOVP03_00000_001;Custos (BW) Matéria Prima;Query;Custos (BW) Matéria Prima;#
+343;PBI;10° Giro cost deployment VMSA;https://app.powerbi.com/groups/a9e1b5e8-4390-4789-96d1-26a76bb643da/reports/d7689faf-6c80-4156-9c41-9411755187f6;WCM;PBI;PBI;#
+344;BW;Transação KSB1;VM_VMOCCP11_00000_001;Custos (BW) Despesas Tarifas e Ocupação;Query;Gestao de Custo;#
+345;PBI;Balanço e Resultado - VMSA - Power BI;https://app.powerbi.com/groups/9765890b-e9a5-405e-bb9f-2231a73f8d3e/reports/fdbbf6eb-2d43-4424-9f5d-4f6c9044a9cc/ReportSection1c3bd0aba02063e57047;Control Planejamento;PBI;PBI;#
+346;BW;Backlog+OP;VM_vmmsdpp01_00000_001;Gestao de Producao;Query;Gestao de Producao;#
+1;BW;KSB1;VM_VMOCCP12_00000_001;Manutencao;Query;Manutencao;#
+1;BW;KSB2;VM_VMOCCP13_00000_001;Manutencao;Query;Manutencao;#
+1;BW;KOB1;VM_VMOCCP14_00000_001;Manutencao;Query;Manutencao;#
+1;BW;KOB2;VM_VMCOVP07_00000_001;Manutencao;Query;Manutencao;#
+342;PBI;Resumo Tarifas VMSA;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/5f9182f1-3fac-47bf-b233-727a449521e9/ReportSection;Custos (Power BI) Despesas Tarifas Ocupação;PBI;PBI;#
+99;BW;FM x CO;VM_VMMFM03_00000_001;Custos (BW) FM;Query;Gestao de Custo;#
+342;PBI;KPI Águas & Efluentes;https://app.powerbi.com/groups/9ab45e53-9eab-416f-8dce-54f2b0b54680/reports/7ed08966-3c66-43f2-9a56-7f99a68ae87b?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Processos Químicos;PBI;PBI;#
+342;PBI;Gerencial – Estoque VMSA;https://app.powerbi.com/groups/0ef389e5-ae59-47df-bc11-183cce155ccc/reports/4917ce36-f5ec-4c5d-91f3-5de62f79e56a/ReportSection;Custos (Power BI) Estoques;PBI;PBI;#
+342;PBI;WIP – Estoque VMSA;https://app.powerbi.com/groups/0ef389e5-ae59-47df-bc11-183cce155ccc/reports/a843dede-343a-4e1a-bf38-b98c10e5165e?experience=power-bi;Custos (Power BI) Estoques;PBI;PBI;#
+341;PBI;Matéria Prima - VMSA;https://app.powerbi.com/groups/0ef389e5-ae59-47df-bc11-183cce155ccc/reports/74206f03-4497-4ac7-9a13-d639993eb1a7?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) Estoques;PBI;PBI;#
+342;PBI;Produto Acabado - VMSA;https://app.powerbi.com/groups/0ef389e5-ae59-47df-bc11-183cce155ccc/reports/a0401bb6-da8e-4671-80d9-48fbbd038001/ReportSection4c7a30017b00a0abc3ca;Custos (Power BI) Estoques;PBI;PBI;#
+342;PBI;Analítico – Estoque VMSA;https://app.powerbi.com/groups/0ef389e5-ae59-47df-bc11-183cce155ccc/reports/9029ce80-32a0-4b28-914d-8aba97c3030d?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) Estoques;PBI;PBI;#
+342;PBI;Material Auxiliar – VMSA.;https://app.powerbi.com/groups/0ef389e5-ae59-47df-bc11-183cce155ccc/reports/93492f8a-a747-4ac3-98af-4ac8af96049e;Custos (Power BI) Estoques;PBI;PBI;#
+342;PBI;Material Manutenção - VMSA;https://app.powerbi.com/groups/0ef389e5-ae59-47df-bc11-183cce155ccc/reports/e55c9c8f-3c7e-4065-99ad-94b512edc2b2;Custos (Power BI) Estoques;PBI;PBI;#
+153;PBI;Preço de Entrada de Pedido;https://app.powerbi.com/groups/34f462c1-96ec-4414-825c-f73ce78e3c1c/reports/510e3cc5-089f-46b4-8a68-8a9fe9f14be2?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;ABUB Comercial;PBI;ABUB Comercial;#
+327;PBI;Evolução Alloy Surcharge;https://app.powerbi.com/groups/602dad12-101d-4d80-82b5-fed932ef8e37/reports/65cef618-6ca9-45cd-ac0a-c2ed2a2c98e1?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Informações Comerciais;PBI;PBI;#
+327;PBI;KPI Margens e Preços;https://app.powerbi.com/groups/68f0e62b-cd17-4334-a989-9fc5c9921bf8/reports/bbe76203-c7a3-485f-a447-8dea38728375?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Informações Comerciais;PBI;PBI;#
+327;PBI;KPI’s de Faturamento e Margem 2021-22;https://app.powerbi.com/groups/68f0e62b-cd17-4334-a989-9fc5c9921bf8/reports/15b01dd0-ab38-43c3-9dab-07dfde390719?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Informações Comerciais;PBI;PBI;#
+321;PBI;WCM KPI 23.24;https://app.powerbi.com/groups/a9e1b5e8-4390-4789-96d1-26a76bb643da/reports/b978474a-bc87-4e3f-b332-31b882c8e18f/ReportSectionb9ac0ba1b9ac23b0e0b0?experience=power-bi;WCM;PBI;PBI;#
+999;BW;Ocupação Desempenho - Tarifa SCG v4;VM_VMOCCP10_00000_001 ;MyLinks;Query;MyLinks;#
+1000;BW;Hydra – Usuário;VM_VMHYDVP01_00000_001;MyLinks;Query;MyLinks;#
+1001;BW;Hydra - Dados da Maquina;VM_VMHYDVP02_00000_001;MyLinks;Query;MyLinks;#
+1002;BW;Hydra - Operações Finalizadas;VM_VMHYDVP03_00000_001;MyLinks;Query;MyLinks;#
+1003;BW;Hydra - Apontamentos;VM_VMHYDVP04_00000_001;MyLinks;Query;MyLinks;#
+1004;BW;Hydra - Maquina;VM_VMHYDVP05_00000_001;MyLinks;Query;MyLinks;#
+1005;BW;Hydra - Status;VM_VMHYDVP06_00000_001;MyLinks;Query;MyLinks;#
+1006;BW;REDE CART;VM_VMPPCP01_00000_002;MyLinks;Query;MyLinks;#
+1007;BW;SURICATO;VM_VMSURVP01_00000_001;MyLinks;Query;MyLinks;#
+1008;BW;TELEMATICA;VM_VMTLMVP01_00000_001;MyLinks;Query;MyLinks;#
+1009;BW;Tabela Preço x OI x Fat;VM_VMSDVP03_00000_001;MyLinks;Query;MyLinks;#
+321;PBI;Análise Criogênicos;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/0022f1ff-d477-43c2-ae38-5670ff45d7de;Custos (Power BI) MP Preços Inflação Indicadores;PBI;PBI;#
+342;PBI;Análise de Despesas por CC e Classe - Power BI;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/d67d81a7-b640-4d3d-9341-5a326f3899a0/ReportSection0e3a08e68b01b7a96e08;Custos (Power BI) Despesas Tarifas Ocupação;PBI;PBI;#
+99;BW;CKM3N – Produtos fabricados analíticos ;VM_VMMCO02_00000_004;Custos (BW) FM;Query;Gestao de Custo;#
+137;BW;Risk Exposure;VM_FIAR_C_00000_020;Gestao Financeira;Query;Gestao Financeira;#
+137;BW;CK13N  - detalhada por B.O.M e roteiro;VM_VMCOVP12_00000_001;Custos (BW) Análise de Custo;Query;Gestao de Custo;#
+137;BW;Tempo ciclo por centro de custos;VM_VMCOVP12_00000_002;Custos (BW) Análise de Custo;Query;Gestao de Custo;#
+309;BW;Dados Comerciais SADIG;VM_VMSADAA01_00000_001;ABUB Corporate;Query;ABUB Corporate;#
+345;PBI;BOFC – VM 63000 Income Statement in Expenditure Format;https://app.powerbi.com/groups/69c0f2e2-a878-4cd5-95e5-0072343332f2/reports/ba7e3a3b-8a40-485d-8594-cff33bebcdac?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Control Planejamento;PBI;PBI;#
+345;PBI;BOFC – VM 64000 Income Statement in Cost of Sales;https://app.powerbi.com/groups/69c0f2e2-a878-4cd5-95e5-0072343332f2/reports/29b1ced1-e297-4a27-ac2d-9f0c7e0d85dd?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Control Planejamento;PBI;PBI;#
+345;PBI;BOFC – VM 61000+62000 Balanço Patrimonial;https://app.powerbi.com/groups/69c0f2e2-a878-4cd5-95e5-0072343332f2/reports/00702f3e-8606-4f4c-b905-bf187b398beb?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Control Planejamento;PBI;PBI;#
+137;BW;CKM3N;VM_VMMCO02_00000_004;Custos (BW) Análise de Custo;Query;Gestao de Custo;#
+285;PBI;Estoque - ABUB - Power BI;https://app.powerbi.com/groups/0ef389e5-ae59-47df-bc11-183cce155ccc/reports/74b068bf-e251-4624-8084-06ba378fecb1/ReportSection45ae082edf6c6e2ca914?experience=power-bi;ABUB Corporate;PBI;ABUB Corporate;#
+342;PBI;Maintenance & Supplies;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/1e9317b8-5d88-4b28-a470-18b41cec46d0?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) Despesas Tarifas Ocupação;PBI;PBI;#
+342;PBI;BUDGET 24/25 - VMSA;https://app.powerbi.com/groups/941d7fdb-43a4-475b-b35b-b5f109afc11d/reports/97323d9c-0aa7-4660-9f3b-9358b1948f7b/ReportSectionfcfb0ba52cca0487ccd6?experience=power-bi;Custos (Power BI) Despesas Tarifas Ocupação;PBI;PBI;#
+342;PBI;Vil Metals;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/129b0fe0-d8ca-431e-828f-46a2afc6d284?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) Estoques;PBI;PBI;#
+343;PBI;11° Giro cost deployment VMSA;https://app.powerbi.com/groups/a9e1b5e8-4390-4789-96d1-26a76bb643da/reports/b1764e36-1ed9-4f82-999b-2bb156a3d920/ReportSectionc5c4de703a1fe9e4ba25?experience=power-bi;WCM;PBI;PBI;#
+343;PBI;1° Giro Cost Deployment CS&S;https://app.powerbi.com/groups/a9e1b5e8-4390-4789-96d1-26a76bb643da/reports/58cf02e5-c11c-4e98-8141-851e7f5a9185/ReportSectionc5c4de703a1fe9e4ba25?experience=power-bi;WCM;PBI;PBI;#
+316;PBI;Iíndice de Refugo CNQ e Retrabalho;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/7f261eed-5f31-4be2-864e-ff5f4bcfdd43?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) Indicadores de Qualidade;PBI;PBI;#
+317;PBI;Gestão de Ocorências de Mistura;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/fdcd3fe9-878e-442a-a40b-b02d516356ef?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) Indicadores de Qualidade;PBI;PBI;#
+318;PBI;Capital Investido Operacional;https://app.powerbi.com/groups/7a28a71a-741f-4f16-84c1-22bf7d89d5dd/reports/7472db87-57ad-4901-9e75-685808c2d8bf?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Informações Comerciais;PBI;PBI;#
+334;PBI;Evolução de Margem Contábil VMSA;https://app.powerbi.com/groups/9765890b-e9a5-405e-bb9f-2231a73f8d3e/reports/d7fc77fe-9028-41d3-80df-7492e8d1f31d?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare&bookmarkGuid=2a6910de-0b72-4a03-96b1-1a4e0d3f3b77;Custos (Power BI) Análise Margem;PBI;PBI;#
+97;BW;Estoque WIP – com depósito;VM_WIP_00000_005;Gestao de Estoque;Query;Gestao de Estoque;#
+345;PBI;Result Summary - Power BI;https://app.powerbi.com/groups/5355ace5-a56c-4a01-a876-a2c62b2a03fb/reports/dcefb453-8f8a-4d20-a817-be042fe1406e?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Control Planejamento;PBI;PBI;#
+285;PBI;Result Summary ABUB;https://app.powerbi.com/groups/e0962c82-ed7c-464c-93f2-2b6ca3cfa555/reports/34f4cf79-7e5e-4108-bbec-f60256e56f14?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;ABUB Corporate;PBI;ABUB Corporate;#
+342;PBI;Validação K200 - Power BI ;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/9fabf20b-e0b9-416d-9d3a-860cd67f0185/ReportSection8b851bbf99d2b8074153?experience=power-bi;Custos (Power BI) Estoques;PBI;PBI;#
+343;PBI;WCM KPI 24 25;https://app.powerbi.com/groups/a9e1b5e8-4390-4789-96d1-26a76bb643da/reports/4bf86018-c137-486c-ad1b-45111e10bb79/ReportSection0c21caa0eee73a10e119?experience=power-bi;WCM;PBI;PBI;#
+321;PBI;MATERIAL COST DEVELOPMENT AND ALLOY COSTS;https://app.powerbi.com/groups/60782c60-18ac-46e3-b029-63e50d6d40d1/reports/5fa5d221-7b43-492e-83ef-f0f5d023a1f0?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Power BI) MP Preços Inflação Indicadores;PBI;PBI;#
+317;PBI;Gestão de Ocorrências de Mistura (ROPRA);https://app.powerbi.com/groups/a4059cad-68b5-49ab-aed4-f30a661d5e39/reports/5cf3acaf-9f48-469a-97e6-67ac34771125/ReportSection2073068e819611153134?experience=power-bi;Custos (Power BI) Indicadores de Qualidade;PBI;PBI;#
+225;PBI;Indices Econômicos (Financeiro);https://app.powerbi.com/groups/fff2c34c-23ab-476d-a49c-82a9f9cb237e/reports/d82f43b8-530a-4df2-8edf-ea4ac135c9a4?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;Custos (Powre BI) Indices Econômicos;PBI;PBI;#
+285;PBI;ABUB - 63000 - Income Statement in Total Expenditure Format_Budget;https://app.powerbi.com/groups/69c0f2e2-a878-4cd5-95e5-0072343332f2/reports/52756356-7bcb-4363-a8a8-c3d5fe7cc4f7?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;ABUB Corporate;PBI;ABUB Corporate;#
+285;PBI;ABUB - 64000 - Income Statement in Cost of Sales Format_Budget;https://app.powerbi.com/groups/69c0f2e2-a878-4cd5-95e5-0072343332f2/reports/a07be88f-fc99-41f5-9c92-67adf8c6e7dd?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare&bookmarkGuid=168c607f-5877-4f64-9e87-7859da3471cf;ABUB Corporate;PBI;ABUB Corporate;#
+285;PBI;ABUB - Balanço Patrimonial (61000+62000)_2024_With Budget;https://app.powerbi.com/groups/69c0f2e2-a878-4cd5-95e5-0072343332f2/reports/ee211341-8863-46e9-95fd-f25e5cd9c1ce?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;ABUB Corporate;PBI;ABUB Corporate;#
+285;PBI;ABUB - Working Capital - 6500 - Key Figures - Details;https://app.powerbi.com/groups/69c0f2e2-a878-4cd5-95e5-0072343332f2/reports/d08ff619-cfbd-4ed5-97bc-4de384238ade?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;ABUB Corporate;PBI;ABUB Corporate;#
+333;PBI;Custo de Produção - Desempenho;https://app.powerbi.com/links/E57JP3n7wA?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare&bookmarkGuid=973f4280-8b63-4f08-898e-7af2ce7a13f2;Custos (Power BI) MP Preços Inflação Indicadores;PBI;PBI;#
+97;BW;Estoque K200;VM_VMTDFVP01_00000_001;Gestao de Estoque;Query;Gestao de Estoque;#
+343;PBI;12° Giro cost deployment VMSA;https://app.powerbi.com/groups/a9e1b5e8-4390-4789-96d1-26a76bb643da/reports/7387b160-7130-4543-b2d0-0c7b87999fae?ctid=71d12869-2d8b-44a6-95c2-f7f076008aa9&pbi_source=linkShare;WCM;PBI;PBI;#
